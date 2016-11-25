@@ -1,0 +1,60 @@
+[13-Aug-2016 18:50:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/merkezya/eticaret/Applications/Frontend/Views/MasterPage.php on line 413
+[13-Aug-2016 18:51:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/merkezya/eticaret/Applications/Frontend/Views/MasterPage.php on line 413
+[13-Aug-2016 21:20:01 UTC] PHP Fatal error:  Call to undefined method ZN\Core\Autoloader::reset() in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 6
+[13-Aug-2016 21:20:02 UTC] PHP Fatal error:  Call to undefined method ZN\Core\Autoloader::reset() in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 6
+[13-Aug-2016 21:20:03 UTC] PHP Fatal error:  Call to undefined method ZN\Core\Autoloader::reset() in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 6
+[14-Aug-2016 09:24:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 30
+[14-Aug-2016 09:27:05 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 32
+[14-Aug-2016 09:27:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 32
+[14-Aug-2016 09:27:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 32
+[14-Aug-2016 10:37:58 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:37:58 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:37:59 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:00 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:00 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:01 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:02 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:02 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:03 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:03 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:04 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:05 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:05 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:06 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:38:07 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:30 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:31 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:32 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:32 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:33 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:34 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:34 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:35 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:36 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:36 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:37 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:38 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:38 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:39 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:39:40 UTC] PHP Warning:  file_put_contents(Applications/Backend/Config/ClassMap.php): failed to open stream: No such file or directory in /home/merkezya/eticaret/Internal/Core/Autoloader.php on line 238
+[14-Aug-2016 10:45:11 UTC] PHP Fatal error:  Cannot access empty property in /home/merkezya/eticaret/Internal/Libraries/DataGrid/DataGrid.php on line 214
+[14-Aug-2016 10:46:51 UTC] PHP Fatal error:  Cannot access empty property in /home/merkezya/eticaret/Internal/Libraries/DataGrid/DataGrid.php on line 214
+[23-Aug-2016 14:25:27 UTC] PHP Fatal error:  Call to undefined function newinsert() in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 49
+[23-Aug-2016 17:55:14 UTC] PHP Fatal error:  Call to undefined method purunler_model::resimSil() in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 93
+[26-Aug-2016 01:14:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 224
+[26-Aug-2016 14:31:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/edit.php on line 40
+[26-Aug-2016 14:59:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/insert.php on line 46
+[26-Aug-2016 14:59:25 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/insert.php on line 46
+[26-Aug-2016 14:59:30 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/insert.php on line 46
+[26-Aug-2016 14:59:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/insert.php on line 46
+[26-Aug-2016 14:59:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/insert.php on line 46
+[22-Oct-2016 19:17:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/merkezya/eticaret/Applications/panel/Controllers/palanlar.php on line 19
+[23-Oct-2016 20:16:07 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/merkezya/eticaret/Applications/panel/Controllers/pyetki.php on line 19
+[24-Oct-2016 10:17:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/gruplar/insert.php on line 13
+[24-Oct-2016 10:17:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/gruplar/insert.php on line 13
+[24-Oct-2016 11:23:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/merkezya/eticaret/Applications/panel/Models/pgruplar.php on line 31
+[24-Oct-2016 11:40:13 UTC] PHP Fatal error:  Call to undefined method pgruplar_model::insertIliski() in /home/merkezya/eticaret/Applications/panel/Controllers/pgruplar.php on line 180
+[24-Oct-2016 11:46:42 UTC] PHP Parse error:  syntax error, unexpected '"id"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/merkezya/eticaret/Applications/panel/Controllers/pgruplar.php on line 104
+[24-Oct-2016 11:51:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/merkezya/eticaret/Applications/panel/Controllers/pgruplar.php on line 79
+[26-Oct-2016 10:55:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/giris.php on line 30
+[26-Oct-2016 10:55:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/giris.php on line 30

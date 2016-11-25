@@ -1,0 +1,12 @@
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="text-center m-t-lg">
+                        <h1>
+                            Simple example of second view
+                        </h1>
+                        <small>Writen in minor.html file.</small>
+                    </div>
+                </div>
+            </div>
+     
