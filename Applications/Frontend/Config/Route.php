@@ -28,7 +28,11 @@ $config['Route']['openPage']	= 'home';
 // Genel Kullanımı: Geçersiz URI adresi girildiğinde yönlendirilmek istenen URI yoludur.
 //
 //----------------------------------------------------------------------------------------------------
-$config['Route']['show404']		= '';
+$config['Route']['showBadRequest']	= 'guvenlik';
+
+
+
+$config['Route']['SecurityPage']		= '404';
 
 //----------------------------------------------------------------------------------------------------
 // Pattern Type
@@ -61,6 +65,11 @@ $config['Route']['patternType']	= 'classic';
 $config['Route']['changeUri'] 	= [
 
   "/^404$/"=>"page404",
-  "/^detay\//"=>"detail/index/"
+  "/^detay\//"=>"detail/index/",
+  "/giris\/yap/"=>["method"=>"post"],
+  "/kayit\/yap/"=>["method"=>"post"],
+  "/sepet\/guncelle/"=>["method"=>"post"],
+  "/sepet\/ekle/"=>["method"=>"post"],
+  "/kayit\/yap/"=>["method"=>"post"],
 
 ];

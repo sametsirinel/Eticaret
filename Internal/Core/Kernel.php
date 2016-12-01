@@ -1,6 +1,6 @@
 <?php
 //----------------------------------------------------------------------------------------------------
-// TEMEL YAPI 
+// TEMEL YAPI
 //----------------------------------------------------------------------------------------------------
 //
 // Author     : Ozan UYKUN <ozanbote@windowslive.com> | <ozanbote@gmail.com>
@@ -11,11 +11,11 @@
 //----------------------------------------------------------------------------------------------------
 
 //----------------------------------------------------------------------------------------------------
-// Kernel                                                                                     
+// Kernel
 //----------------------------------------------------------------------------------------------------
 //
-// Genel Kullanım: Çıktıyı üretmek için kullanılır.						  
-//          																				  
+// Genel Kullanım: Çıktıyı üretmek için kullanılır.
+//
 //----------------------------------------------------------------------------------------------------
 
 //----------------------------------------------------------------------------------------------------
@@ -103,13 +103,13 @@ $starting = Config::get('Starting');
 // Starting Controllers
 //----------------------------------------------------------------------------------------------------
 $startController = $starting['controller'];
-	
+
 if( ! empty($startController) )
 {
 	// Tek Kontrolcü
 	if( is_string($startController) )
 	{
-		internalStartingContoller($startController);	
+		internalStartingContoller($startController);
 	}
 	elseif( is_array($startController) )
 	{
@@ -119,22 +119,22 @@ if( ! empty($startController) )
 			if( is_numeric($key) )
 			{
 				// Parametresiz
-				internalStartingContoller($val);	
-			}	
+				internalStartingContoller($val);
+			}
 			else
 			{
 				// Parametreli
-				internalStartingContoller($key, $val);	
+				internalStartingContoller($key, $val);
 			}
-		}	
+		}
 	}
 }
 
-if( $starting['autoload']['status'] === true ) 
+if( $starting['autoload']['status'] === true )
 {
 	$startingAutoload 		= Folder::allFiles(AUTOLOAD_DIR, $starting['autoload']['recursive']);
 	$commonStartingAutoload = Folder::allFiles(EXTERNAL_AUTOLOAD_DIR, $starting['autoload']['recursive']);
-	
+
 	//------------------------------------------------------------------------------------------------
 	// Yerel Otomatik Olarak Yüklenen Fonksiyonlar
 	//------------------------------------------------------------------------------------------------
@@ -143,14 +143,14 @@ if( $starting['autoload']['status'] === true )
 		if( extension($file) === 'php' )
 		{
 			$file = restorationPath($file);
-			
+
 			if( is_file($file) )
 			{
 				require_once $file;
 			}
 		}
 	}
-	
+
 	//------------------------------------------------------------------------------------------------
 	// Ortak Otomatik Olarak Yüklenen Fonksiyonlar
 	//------------------------------------------------------------------------------------------------
@@ -161,14 +161,14 @@ if( $starting['autoload']['status'] === true )
 			// Aynı dosya hem yerel de hemde genelde mevcutsa
 			// genel dizindeki dosya dikkate alınmaz.
 			$commonIsSameExistsFile = str_ireplace(EXTERNAL_AUTOLOAD_DIR, AUTOLOAD_DIR, $file);
-			
+
 			if( ! is_file($commonIsSameExistsFile) && is_file($file) )
 			{
 				require_once $file;
 			}
 		}
 	}
-}	
+}
 
 //----------------------------------------------------------------------------------------------------
 // El ile Yüklenen Fonksiyonlar
@@ -189,7 +189,7 @@ if( is_file($isFile) )
 	//  Sayfa dahil ediliyor.
 	// -------------------------------------------------------------------------------
 	require_once $isFile;
-		
+
 	// -------------------------------------------------------------------------------
 	// Sayfaya ait controller nesnesi oluşturuluyor.
 	// -------------------------------------------------------------------------------
@@ -200,12 +200,12 @@ if( is_file($isFile) )
 		// -------------------------------------------------------------------------------
 		if( strtolower($function) === 'index' && ! is_callable([$page, $function]) )
 		{
-			$function = 'main';	
-		}	
+			$function = 'main';
+		}
 
 		// -------------------------------------------------------------------------------
 		// Sınıf ve yöntem bilgileri geçerli ise sayfayı çalıştır.
-		// -------------------------------------------------------------------------------	
+		// -------------------------------------------------------------------------------
 		if( is_callable([$page, $function]) )
 		{
 			uselib($page)->$function(...$parameters);
@@ -213,14 +213,14 @@ if( is_file($isFile) )
 		else
 		{
 			if( Config::get('Route', 'show404') )
-			{	
-				redirect(Config::get('Route', 'show404'));	
+			{
+				redirect(Config::get('Route', 'show404'));
 			}
 			else
 			{
 				// Hatayı rapor et.
-				report('Error', lang('Error', 'callUserFuncArrayError', $function), 'SystemCallUserFuncArrayError');	
-					
+				report('Error', lang('Error', 'callUserFuncArrayError', $function), 'SystemCallUserFuncArrayError');
+
 				// Hatayı ekrana yazdır.
 				die(Errors::message('Error', 'callUserFuncArrayError', $function));
 			}
@@ -228,19 +228,19 @@ if( is_file($isFile) )
 	}
 }
 else
-{	
-	if( Config::get('Route','show404') ) 
-	{				
-		redirect(Config::get('Route','show404'));		
+{
+	if( Config::get('Route','show404') )
+	{
+		redirect(Config::get('Route','show404'));
 	}
 	else
 	{
 		// Hatayı rapor et.
 		report('Error', lang('Error', 'notIsFileError', $isFile), 'SystemNotIsFileError');
-		
+
 		// Hatayı ekrana yazdır.
 		die(Errors::message('Error', 'notIsFileError', $isFile));
-	}		
+	}
 }
 
 //----------------------------------------------------------------------------------------------------
@@ -269,9 +269,9 @@ else
 		$message = $lang['line']   .':'.$errorLast['line'].', '.
 				   $lang['file']   .':'.$errorLast['file'].', '.
 				   $lang['message'].':'.$errorLast['message'];
-		
+
 		report('GeneralError', $message, 'GeneralError');
-	}	
+	}
 	//------------------------------------------------------------------------------------------------
 }
 //----------------------------------------------------------------------------------------------------

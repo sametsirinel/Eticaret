@@ -84,6 +84,8 @@
 
 			}
 
+			//echo $this->username." - ".$this->password;exit();
+
 			$this->password = $this->encrypt($this->password);
 
 			$login = $this->checkPermission($permission,$permissionNumber);
@@ -260,14 +262,17 @@
 			}else if(Session::select("Kullanici_bilgi")){
 				$session = Session::select("Kullanici_bilgi");
 			}else{
-				(object)$session = "";
+				$session = (object)["email"=>null,"sifre"=>null];
 			}
 
-			$this->username = isset($session->email) ? $session->email : "";
-			$this->password = isset($session->sifre) ? $session->sifre : "";
-			$permission = isset($session->permission) ? $session->permission : "";
-			$permissionNumber = isset($session->permissionNumber) ? $session->permissionNumber : "";
-			$user = $this->checkPermission($permission,$permissionNumber);
+
+			$this->username = $session->email;
+			$this->password = $session->sifre;
+
+			if($this->username == null || $this->password == null )
+				return false;
+				
+			$user = $this->checkPermission($session->permission,$session->permissionNumber);
 
 			if($user->totalRows()<1){
 

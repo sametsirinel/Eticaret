@@ -21,6 +21,7 @@
 			$fiyatid = $postlar["fiyatid"];
 			$miktar = $postlar["miktar"];
 
+			//print_r($postlar);exit();
 			if(!is_numeric($id) || !is_numeric($fiyatid) || !is_numeric($miktar))
 				redirect(baseurl("404"));
 

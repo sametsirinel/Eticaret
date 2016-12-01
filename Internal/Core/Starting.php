@@ -1,6 +1,6 @@
 <?php
 //----------------------------------------------------------------------------------------------------
-// SİSTEM BAŞLATILIRKEN 
+// SİSTEM BAŞLATILIRKEN
 //----------------------------------------------------------------------------------------------------
 //
 // Author     : Ozan UYKUN <ozanbote@windowslive.com> | <ozanbote@gmail.com>
@@ -23,7 +23,7 @@ internalApplicationMode(Config::get('Application', 'mode'));
 // Tampon başlatılıyor.
 //
 //----------------------------------------------------------------------------------------------------
-if( Config::get('Cache','obGzhandler') && substr_count(server('acceptEncoding'), 'gzip') ) 
+if( Config::get('Cache','obGzhandler') && substr_count(server('acceptEncoding'), 'gzip') )
 {
 	ob_start('ob_gzhandler');
 }
@@ -62,28 +62,28 @@ if( APPMODE !== 'publication' )
 //----------------------------------------------------------------------------------------------------
 $iniSet = Config::get('Htaccess', 'ini')['settings'];
 
-if( ! empty($iniSet) ) 
+if( ! empty($iniSet) )
 {
 	Config::iniSet($iniSet);
 }
 //----------------------------------------------------------------------------------------------------
-		
+
 //----------------------------------------------------------------------------------------------------
 // Htaccess Dosyası Oluşturma İşlemi
-//----------------------------------------------------------------------------------------------------	
-if( Config::get('Htaccess','createFile') === true ) 
+//----------------------------------------------------------------------------------------------------
+if( Config::get('Htaccess','createFile') === true )
 {
 	internalCreateHtaccessFile();
-}	
+}
 //----------------------------------------------------------------------------------------------------
 
 //----------------------------------------------------------------------------------------------------
 // Robots Dosyası Oluşturma İşlemi
-//----------------------------------------------------------------------------------------------------	
-if( Config::get('Robots','createFile') === true ) 
+//----------------------------------------------------------------------------------------------------
+if( Config::get('Robots','createFile') === true )
 {
 	internalCreateRobotsFile();
-}	
+}
 //----------------------------------------------------------------------------------------------------
 
 //----------------------------------------------------------------------------------------------------
@@ -97,7 +97,7 @@ if( $composer === true )
 	// Varsayılan Yol: vendor/autoload.php
 	//------------------------------------------------------------------------------------------------
 	$path = 'vendor/autoload.php';
-	
+
 	if( file_exists($path) )
 	{
 		require_once($path);
@@ -105,7 +105,7 @@ if( $composer === true )
 	else
 	{
 		report('Error', lang('Error', 'fileNotFound', $path) ,'AutoloadComposer');
-		
+
 		die(Errors::message('Error', 'fileNotFound', $path));
 	}
 }
@@ -116,7 +116,7 @@ elseif( is_file($composer) )
 elseif( ! empty($composer) )
 {
 	report('Error', lang('Error', 'fileNotFound', $composer) ,'AutoloadComposer');
-	
+
 	die(Errors::message('Error', 'fileNotFound', $composer));
 }
-//----------------------------------------------------------------------------------------------------	
+//----------------------------------------------------------------------------------------------------

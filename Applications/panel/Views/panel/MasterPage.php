@@ -1,10 +1,10 @@
-<?php 
+<?php
 
 	if(!User::check() || User::yetki()<1){
-		
+
 		User::logout();
 		redirect(baseurl("panel/plogin"));
-		
+
 	}
 
 ?>
@@ -60,7 +60,7 @@
                 <li <?php if(Uri::segment(2)=="phome"){ echo ' class="active"'; } ?>>
                     <a href="<?php echo baseurl("panel/phome/index/") ?>"><i class="fa fa-home"></i> <span class="nav-label">Anasayfa</span></a>
                 </li>
-				
+
 				<?php if(Yetki::check(9)){ ?>
 					<li <?php if(Uri::segment(2)=="purunler"){ echo ' class="active"'; } ?>>
 						<a href="#"><i class="fa fa-gift"></i> <span class="nav-label">Ürünler</span><span class="fa arrow"></span></a>
@@ -103,7 +103,7 @@
 						<a href="<?php echo baseurl("panel/pdosyalar/index/") ?>"><i class="fa fa-folder-open-o"></i> <span class="nav-label">Resim ve Dosya Galeri</span></a>
 					</li>
 				<?php } ?>
-				
+
 				<?php if(Yetki::check(2) || Yetki::check(11)){ ?>
 					<li <?php if(Uri::segment(2)=="pyetki" || Uri::segment(2)=="payarlar"){ echo ' class="active"'; } ?>>
 						<a href="#"><i class="fa fa-cogs"></i> <span class="nav-label">Site Ayarları</span><span class="fa arrow"></span></a>
@@ -143,7 +143,7 @@
         </div>
     </nav>
     <div id="page-wrapper" class="gray-bg">
-	
+
         <div class="row border-bottom">
         <nav class="navbar navbar-static-top  " role="navigation" style="margin-bottom: 0">
         <div class="navbar-header">
@@ -258,23 +258,23 @@
 				}
 
 				$("#download").click(function() {
-					
+
 					val  = $("#urunId").attr("value");
 					img = $image.cropper("getDataURL");
-					
+
 					swal({   title: "<i class='fa fa-refresh fa-spin'></i> Lütfen Bekleyin . . . ",  html:true, text: "Bu işlem resmin büyüklüne göre zaman alabilir sayfa yenilenene kadar bekleyin",  showCancelButton: false,showConfirmButton: false });
 					$.ajax({
-						
+
 						type:"post",
 						url:"<?=baseurl("panel/purunler/urunResimEkle") ?>",
 						data:"urunid="+val+"&resim="+img,
 						success:function(cevap){
 							window.location = "";
-							
+
 						}
-						
+
 					});
-					
+
 				});
 
 				$("#zoomIn").click(function() {
@@ -300,7 +300,7 @@
     $(document).ready(function (){
 
         new Clipboard('.btnaaa');
-		
+
 		$(".part2").hide();
 		$(".part4").hide();
 
@@ -315,65 +315,65 @@
 		$('.summernote').summernote();
 
 	});
-   
+
 	$(function(){
-		
+
 		$(".gosummer").click(function(){
-			
+
 			$("textarea[name=aciklama]").html($(".summernote").code());
 			$("#postform").submit();
 		});
-		
+
 	})
 </script>
 
 <script>
-	
-	
+
+
 	Dropzone.options.myAwesomeDropzone = {
-		
+
 		init: function() {
-			
-			this.on("complete", function(file) { 
+
+			this.on("complete", function(file) {
 
 				$.ajax({
-					
+
 					type:"POST",
 					url:"<?php echo baseurl("panel/pdosyalar/lastItem"); ?>",
 					success:function(cevap){
-						
+
 						$("#lastItem").html(cevap);
-						
+
 					}
-				
+
 				});
-			
+
 			});
-	
+
 		}
-	
+
 	};
-	
+
 	function searchImg(){
-		
+
 		$.ajax({
-			
+
 			type:"POST",
 			url:"<?php echo baseurl("panel/pdosyalar/searchImg") ?>",
 			data:"ara="+$("input[name=ImgSearch]").val(),
 			success:function(cevap){
-				
+
 				$("#lastItem").html(cevap);
-				
+
 			}
-			
-			
+
+
 		});
-		
+
 	}
-	
+
 	<?php  if(Uri::segment(2)=="pkategoriler" && Uri::segment(3)=="sirala"){ ?>
-		
+
 		 $(document).ready(function(){
 
 			 var updateOutput = function (e) {
@@ -385,97 +385,97 @@
 					 output.val('JSON browser support required for this demo.');
 				 }
 				 $.ajax({
-					 
+
 					 type:"POST",
 					 url:"<?php echo baseurl("panel/pkategoriler/doSirala") ?>",
 					 data:"json="+window.JSON.stringify(list.nestable('serialize')),
 					 dataType:"json",
 					 success:function(cevap){
-						 
+
 						 alert("Başarılı");
-						 
+
 					 }
-					 
+
 				 })
 			 };
-			 
+
 			 $('#nestable2').nestable({
 				 group: 1
 			 }).on('change', updateOutput);
-			 
+
 			 updateOutput($('#nestable2').data('output', $('#nestable2-output')));
 
 		 });
-		 
+
 	<?php } ?>
-	
+
 	function firmaAra(){
-		
+
 		var kelime = $("input[name=firmaAra]").val();
-		
+
 		$.ajax({
-			
+
 			type:"POST",
 			url:"<?php echo baseurl("panel/pkampanyalar/firmaSearch/") ?>",
 			data:"ara="+kelime,
 			success:function(cevap){
-				
+
 				$("#firmasonuc").html(cevap);
-				
+
 			}
-			
+
 		})
-		
+
 	}
-	
+
 	function firmaSec(id){
-		
-		var firmaimg = $(".firmaimg"+id).attr("src");		
-		var firmaadi = $(".firmaadi"+id).html();		
-		
+
+		var firmaimg = $(".firmaimg"+id).attr("src");
+		var firmaadi = $(".firmaadi"+id).html();
+
 		$(".firmaimg").attr("src",firmaimg);
 		$(".firmaadi").html(firmaadi);
 		$("input[name=firmaid]").val(id);
-		
+
 	}
-	
+
 	function selectImg(id){
-		
+
 		var firmaimg = $(".selectImg"+id).attr("src");
-		
+
 		$(".selectImg").attr("src",firmaimg);
 		$("input[name=resim]").val(id);
-		
+
 	}
-	
+
 	function firmakaydet(){
-		
+
 		$(".part1").slideToggle();
 		$(".part2").slideToggle();
-		
+
 	}
-	
+
 	function ImgToggle(){
-		
+
 		$(".part3").slideToggle();
 		$(".part4").slideToggle();
-		
+
 	}
-	
+
 	function firmaTekrarSec(){
-		
+
 		$(".part1").slideToggle();
 		$(".part2").slideToggle();
-		
+
 		$("input[name=firmaAra]").val("");
 		$("#firmasonuc").html("<h2 style='color:#555;font-weight:bold;text-align:center'>Yukarıdaki arama kutusunu kullanarak firma araması yapabilirsiniz.</h2><div class='clearfix'></div>");
-		
+
 	}
-	
+
 </script>
 
 <script type="text/javascript">
-	
+
 
 </script>
 

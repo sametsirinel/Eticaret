@@ -1,6 +1,6 @@
 <?php
 //----------------------------------------------------------------------------------------------------
-// ROUTE 
+// ROUTE
 //----------------------------------------------------------------------------------------------------
 //
 // Author     : Ozan UYKUN <ozanbote@windowslive.com> | <ozanbote@gmail.com>
@@ -15,8 +15,8 @@
 //----------------------------------------------------------------------------------------------------
 //
 // Genel Kullanımı: Başlangıçta varsayılan açılış sayfasını sağlayan Controller dosyasıdır.
-// Dikkat edilirse açılış sayfası welcome.php'dir ancak bu işlemi yapan home.php	          
-// Controller dosyasıdır.																  					
+// Dikkat edilirse açılış sayfası welcome.php'dir ancak bu işlemi yapan home.php
+// Controller dosyasıdır.
 //
 //----------------------------------------------------------------------------------------------------
 $config['Route']['openPage']	= 'WelcomeExample';
@@ -25,9 +25,10 @@ $config['Route']['openPage']	= 'WelcomeExample';
 // Show 404
 //----------------------------------------------------------------------------------------------------
 //
-// Genel Kullanımı: Geçersiz URI adresi girildiğinde yönlendirilmek istenen URI yoludur.   					
+// Genel Kullanımı: Geçersiz URI adresi girildiğinde yönlendirilmek istenen URI yoludur.
 //
 //----------------------------------------------------------------------------------------------------
+$config['Route']['showBadRequest']		= '';
 $config['Route']['show404']		= '';
 
 //----------------------------------------------------------------------------------------------------
@@ -39,8 +40,8 @@ $config['Route']['show404']		= '';
 // @key string patternType: special, classic
 //
 // special: Config/Regex.php dosyasında yer alan karakterlerin kullanımlarıdır.
-// classic: Düzenli ifadelerdeki standart karakterlerin kullanımlarıdır. 	
-//	      						
+// classic: Düzenli ifadelerdeki standart karakterlerin kullanımlarıdır.
+//
 //----------------------------------------------------------------------------------------------------
 $config['Route']['patternType']	= 'classic';
 
@@ -50,12 +51,16 @@ $config['Route']['patternType']	= 'classic';
 //
 // URI adreslerine rota vermek için kullanılır.
 //
-// Kullanım: @key -> yeni adres, @value -> eski adres										  
-//    																			           																		  
-// array																					  
-// (																						  														  
-//     'anasayfa'     => 'home/index'														      
-// );																				      
-//	      						
+// Kullanım: @key -> yeni adres, @value -> eski adres
+//
+// array
+// (
+//     'anasayfa'     => 'home/index'
+// );
+//
 //----------------------------------------------------------------------------------------------------
-$config['Route']['changeUri'] 	= [];
+$config['Route']['changeUri'] 	= [
+
+  "/kayit(\/index)?/"=>["method"=>"post","url"=>"kayit/view"]
+
+];
