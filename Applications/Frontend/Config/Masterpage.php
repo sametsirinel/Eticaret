@@ -86,7 +86,9 @@ $config['Masterpage']['attributes'] =
 [
 	'html' => [],
 	'head' => [],
-	'body' => []
+	'body' => [
+		"class"=>"index"
+	]
 ];
 
 //----------------------------------------------------------------------------------------------------
@@ -126,7 +128,7 @@ $config['Masterpage']['plugin'] =
 // yazmanız yeterlidir.
 //
 //----------------------------------------------------------------------------------------------------
-$config['Masterpage']['font'] = ["http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300","http://fonts.googleapis.com/css?family=Roboto:400,100,300"]; // string veya array
+$config['Masterpage']['font'] = []; // string veya array
 
 //----------------------------------------------------------------------------------------------------
 // Style
@@ -138,7 +140,15 @@ $config['Masterpage']['font'] = ["http://fonts.googleapis.com/css?family=Open+Sa
 // dizinindeki dosya/dosyaların isimlerini yazmanız yeterlidir.
 //
 //----------------------------------------------------------------------------------------------------
-$config['Masterpage']['style'] = ["boostrap.css","font_awesome","styles","mystyles","sweetalert"]; // string veya array
+$config['Masterpage']['style'] = [
+	"../external/slick/slick.css",
+	"../external/slick/slick-theme.css",
+	"../external/magnific-popup/magnific-popup.css",
+	"../external/bootstrap-select/bootstrap-select.css",
+	"../external/rs-plugin/css/settings.css",
+	"style.css",
+	"../font/style.css",
+]; // string veya array
 
 //----------------------------------------------------------------------------------------------------
 // Script
@@ -148,7 +158,7 @@ $config['Masterpage']['style'] = ["boostrap.css","font_awesome","styles","mystyl
 // Resources/Scripts/ dizinindeki dosya/dosyaların isimlerini yazmanız yeterlidir.
 //
 //----------------------------------------------------------------------------------------------------
-$config['Masterpage']['script'] = ["jquery.js"]; // string veya array
+$config['Masterpage']['script'] = ["../external/modernizr/modernizr.js"]; // string veya array
 
 //----------------------------------------------------------------------------------------------------
 // Title

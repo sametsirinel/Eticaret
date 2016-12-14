@@ -58,3 +58,64 @@
 [24-Oct-2016 11:51:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/merkezya/eticaret/Applications/panel/Controllers/pgruplar.php on line 79
 [26-Oct-2016 10:55:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/giris.php on line 30
 [26-Oct-2016 10:55:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/giris.php on line 30
+[27-Oct-2016 12:57:07 UTC] PHP Fatal error:  Call to undefined method purunler_model::gruplar() in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 152
+[27-Oct-2016 12:57:08 UTC] PHP Fatal error:  Call to undefined method purunler_model::gruplar() in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 152
+[27-Oct-2016 12:57:36 UTC] PHP Fatal error:  Call to undefined method purunler_model::gruplar() in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 152
+[27-Oct-2016 12:57:37 UTC] PHP Fatal error:  Call to undefined method purunler_model::gruplar() in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 152
+[27-Oct-2016 13:11:01 UTC] PHP Fatal error:  Call to undefined method purunler_model::getGrupOzellik() in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 175
+[27-Oct-2016 13:16:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 175
+[27-Oct-2016 13:32:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/merkezya/eticaret/Applications/panel/Controllers/pgruplar.php on line 133
+[27-Oct-2016 15:52:19 UTC] PHP Parse error:  syntax error, unexpected 'do' (T_DO), expecting identifier (T_STRING) in /home/merkezya/eticaret/Applications/panel/Controllers/search.php on line 10
+[27-Oct-2016 15:52:37 UTC] PHP Parse error:  syntax error, unexpected 'do' (T_DO), expecting identifier (T_STRING) in /home/merkezya/eticaret/Applications/panel/Controllers/search.php on line 11
+[16-Nov-2016 11:27:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/edit.php on line 108
+[18-Nov-2016 20:10:10 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/edit.php on line 149
+[18-Nov-2016 20:10:11 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/edit.php on line 149
+[18-Nov-2016 20:46:22 UTC] PHP Fatal error:  Call to undefined method purunler_model::urunler() in /home/merkezya/eticaret/Applications/panel/Controllers/purunler.php on line 334
+[18-Nov-2016 21:59:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/edit.php on line 167
+[18-Nov-2016 21:59:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/merkezya/eticaret/Applications/panel/Views/panel/sayfalar/urunler/edit.php on line 167
+[22-Nov-2016 14:51:36 UTC] PHP Fatal error:  Call to undefined method home_model::getUrunResim() in /home/merkezya/eticaret/Applications/Frontend/Controllers/detail.php on line 11
+[22-Nov-2016 14:52:41 UTC] PHP Parse error:  syntax error, unexpected ''] = 'Internal/Libraries/Authe' (T_ENCAPSED_AND_WHITESPACE) in /home/merkezya/eticaret/Applications/Frontend/Config/ClassMap.php on line 2674
+[22-Nov-2016 15:22:20 UTC] PHP Fatal error:  Call to a member function totalRows() on null in /home/merkezya/eticaret/Applications/Frontend/Controllers/detail.php on line 13
+[22-Nov-2016 15:22:21 UTC] PHP Fatal error:  Call to a member function totalRows() on null in /home/merkezya/eticaret/Applications/Frontend/Controllers/detail.php on line 13
+[22-Nov-2016 16:50:19 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/merkezya/eticaret/Applications/Frontend/Views/sayfalar/detay.php on line 69
+[22-Nov-2016 16:50:21 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/merkezya/eticaret/Applications/Frontend/Views/sayfalar/detay.php on line 69
+[22-Nov-2016 19:25:07 UTC] PHP Fatal error:  Call to undefined method sepet_model::ekle() in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 21
+[22-Nov-2016 19:25:11 UTC] PHP Fatal error:  Call to undefined method sepet_model::ekle() in /home/merkezya/eticaret/Applications/Frontend/Controllers/sepet.php on line 21
+[24-Nov-2016 13:32:53 UTC] PHP Parse error:  syntax error, unexpected 'Warning' (T_STRING) in /home/merkezya/eticaret/Applications/Frontend/Controllers/kayit.php on line 39
+[24-Nov-2016 13:32:54 UTC] PHP Parse error:  syntax error, unexpected 'Warning' (T_STRING) in /home/merkezya/eticaret/Applications/Frontend/Controllers/kayit.php on line 39
+[24-Nov-2016 14:16:06 UTC] PHP Parse error:  syntax error, unexpected ''ClassMap']['classes']['giris_' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/merkezya/eticaret/Applications/Service/Config/ClassMap.php on line 2100
+[24-Nov-2016 14:52:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/merkezya/eticaret/Applications/Frontend/Config/ClassMap.php on line 1395
+[24-Nov-2016 14:52:21 UTC] PHP Parse error:  syntax error, unexpected ''Internal/Libraries/Database/D' (T_ENCAPSED_AND_WHITESPACE) in /home/merkezya/eticaret/Applications/Frontend/Config/ClassMap.php on line 1635
+[24-Nov-2016 14:56:16 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/merkezya/eticaret/Applications/Frontend/Views/MasterPage.php on line 17
+[24-Nov-2016 14:56:16 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/merkezya/eticaret/Applications/Frontend/Views/MasterPage.php on line 17
+[25-Nov-2016 11:26:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/merkezya/eticaret/Applications/Frontend/Views/MasterPage.php on line 228
+[25-Nov-2016 19:28:50 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 78720 bytes) in /home/merkezya/eticaret/Applications/Frontend/Config/ClassMap.php on line 496
+[26-Nov-2016 11:12:44 UTC] PHP Fatal error:  Call to undefined function page404() in /home/merkezya/eticaret/Internal/Core/Functions.php on line 975
+[26-Nov-2016 11:12:44 UTC] PHP Fatal error:  Call to undefined function page404() in /home/merkezya/eticaret/Internal/Core/Functions.php on line 975
+[26-Nov-2016 11:12:45 UTC] PHP Fatal error:  Call to undefined function page404() in /home/merkezya/eticaret/Internal/Core/Functions.php on line 975
+[26-Nov-2016 11:12:45 UTC] PHP Fatal error:  Call to undefined function page404() in /home/merkezya/eticaret/Internal/Core/Functions.php on line 975
+[26-Nov-2016 11:15:10 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/merkezya/eticaret/Applications/Frontend/Config/Route.php on line 65
+[26-Nov-2016 11:15:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/merkezya/eticaret/Applications/Frontend/Config/Route.php on line 65
+[26-Nov-2016 11:15:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/merkezya/eticaret/Applications/Frontend/Config/Route.php on line 65
+[26-Nov-2016 11:15:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/merkezya/eticaret/Applications/Frontend/Config/Route.php on line 65
+[26-Nov-2016 11:23:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/merkezya/eticaret/Internal/Core/Functions.php on line 982
+[26-Nov-2016 11:33:07 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/merkezya/eticaret/Internal/Core/Functions.php on line 976
+[26-Nov-2016 11:33:08 UTC] PHP Fatal error:  Call to undefined function page404() in /home/merkezya/eticaret/Internal/Core/Functions.php on line 976
+[26-Nov-2016 13:18:00 UTC] PHP Fatal error:  Call to undefined function internalCleanInjection() in /home/merkezya/eticaret/Internal/Core/Functions.php on line 305
+[28-Nov-2016 11:46:59 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/merkezya/eticaret/Applications/Service/Controllers/kategoriler.php on line 11
+[01-Dec-2016 12:34:34 UTC] PHP Fatal error:  Call to undefined method InternalUser::adi() in /home/merkezya/eticaret/Internal/Libraries/Foundations/StaticAccess.php on line 45
+[01-Dec-2016 12:34:35 UTC] PHP Fatal error:  Call to undefined method InternalUser::adi() in /home/merkezya/eticaret/Internal/Libraries/Foundations/StaticAccess.php on line 45
+[01-Dec-2016 12:37:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/merkezya/eticaret/Applications/Frontend/Controllers/profil.php on line 12
+[01-Dec-2016 12:37:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/merkezya/eticaret/Applications/Frontend/Controllers/profil.php on line 12
+[01-Dec-2016 12:49:55 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/merkezya/eticaret/Applications/Frontend/Controllers/profil.php on line 14
+[01-Dec-2016 12:49:56 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/merkezya/eticaret/Applications/Frontend/Controllers/profil.php on line 14
+[01-Dec-2016 12:50:02 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/merkezya/eticaret/Applications/Frontend/Controllers/profil.php on line 14
+[01-Dec-2016 13:18:23 UTC] PHP Parse error:  syntax error, unexpected '" : "' (T_CONSTANT_ENCAPSED_STRING) in /home/merkezya/eticaret/Applications/Frontend/Views/sayfalar/profil/duzenle.php on line 61
+[01-Dec-2016 13:20:03 UTC] PHP Fatal error:  Call to undefined method profil_model::duzenleniyor() in /home/merkezya/eticaret/Applications/Frontend/Controllers/profil.php on line 87
+[05-Dec-2016 13:27:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/urunler.php on line 13
+[05-Dec-2016 13:27:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/urunler.php on line 13
+[05-Dec-2016 13:28:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/urunler.php on line 13
+[05-Dec-2016 13:28:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/urunler.php on line 13
+[05-Dec-2016 13:28:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/urunler.php on line 13
+[05-Dec-2016 13:28:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/merkezya/eticaret/Applications/Service/Controllers/urunler.php on line 13
+[06-Dec-2016 19:32:09 UTC] PHP Parse error:  syntax error, unexpected 'get' (T_STRING) in /home/merkezya/eticaret/Applications/Service/Models/kategoriler.php on line 10

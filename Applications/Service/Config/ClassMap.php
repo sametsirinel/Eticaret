@@ -1987,4 +1987,462 @@ $config['ClassMap']['classes']['search_model'] = 'Applications/panel/Models/sear
 
 //----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
 
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+$config['ClassMap']['classes']['iletisim_model'] = 'Applications/Service/Models/iletisim.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+$config['ClassMap']['classes']['iletisim_model'] = 'Applications/Service/Models/iletisim.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+$config['ClassMap']['classes']['kategoriler_model'] = 'Applications/Service/Models/kategoriler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler'] = 'Applications/Service/Models/adresler.php';
+$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler'] = 'Applications/Service/Models/adresler.php';
+$config['ClassMap']['classes']['giris_model'] = 'Applications/Service/Models/giris.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+
+//----------------------------------------------------------------------------------------------------$config['ClassMap']['classes']['adresler_model'] = 'Applications/Service/Models/adresler.php';
+$config['ClassMap']['classes']['urunler_model'] = 'Applications/Service/Models/urunler.php';
+
 //----------------------------------------------------------------------------------------------------
